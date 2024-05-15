@@ -90,4 +90,12 @@ Aspiring programmer, currently delving into Software Engineering studies.
     </a> -->
   </p>
 </div>
+
 ---
+
+### :fire: My Stats :
+
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IshiniA&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ishini github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshiniA&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
+  | ------------- | ------------- |
+
+![GitHub Streak](https://streak-stats.demolab.com?user=IshiniA&count_private=true&public=true&theme=algolia&border_radius=20) 
